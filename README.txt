@@ -1,3 +1,1 @@
-Hello Git and GitHub
-I am making a new change. 
-Yay!
+Hello Git and GitHub!
